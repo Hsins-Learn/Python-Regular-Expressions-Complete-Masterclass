@@ -1,0 +1,50 @@
+Level Date and Time Source Event ID Task Category
+Critical 1/27/2020 8:19:22 AM Microsoft-Windows-Kernel-Power 41 (63) The system has rebooted without cleanly shutting down first. This error could be caused if the system stopped responding, crashed, or lost power unexpectedly.
+Critical 1/26/2020 10:09:54 AM Microsoft-Windows-Kernel-Power 41 (63) The system has rebooted without cleanly shutting down first. This error could be caused if the system stopped responding, crashed, or lost power unexpectedly.
+Critical 1/25/2020 10:12:58 AM Microsoft-Windows-Kernel-Power 41 (63) The system has rebooted without cleanly shutting down first. This error could be caused if the system stopped responding, crashed, or lost power unexpectedly.
+Error 1/25/2020 10:03:44 AM Microsoft-Windows-WER-SystemErrorReporting 1001 None The computer has rebooted from a bugcheck.  The bugcheck was: 0x0000009f (0x0000000000000003, 0xffff810ec8c31060, 0xfffff80716e687b0, 0xffff810ed30e3c20). A dump was saved in: C:\WINDOWS\MEMORY.DMP. Report Id: 7fcfb77c-e4b0-4e3b-b4c7-af9dafdafc7f.
+Error 1/25/2020 10:03:29 AM TPM 15 None The device driver for the Trusted Platform Module (TPM) encountered a non-recoverable error in the TPM hardware, which prevents TPM services (such as data encryption) from being used. For further help, please contact the computer manufacturer.
+Critical 1/25/2020 10:03:28 AM Microsoft-Windows-Kernel-Power 41 (63) The system has rebooted without cleanly shutting down first. This error could be caused if the system stopped responding, crashed, or lost power unexpectedly.
+Critical 1/24/2020 8:04:10 AM Microsoft-Windows-Kernel-Power 41 (63) The system has rebooted without cleanly shutting down first. This error could be caused if the system stopped responding, crashed, or lost power unexpectedly.
+Error 1/24/2020 8:04:08 AM Microsoft-Windows-Kernel-Boot 29 None Windows failed fast startup with error status 0xC0000001.
+Error 1/23/2020 11:53:41 PM Microsoft-Windows-DistributedCOM 10010 None The server {4AA0A5C4-1B9B-4F2E-99D7-99C6AEC83474} did not register with DCOM within the required timeout.
+Critical 1/23/2020 7:59:27 AM Microsoft-Windows-Kernel-Power 41 (63) The system has rebooted without cleanly shutting down first. This error could be caused if the system stopped responding, crashed, or lost power unexpectedly.
+Error 1/23/2020 7:59:33 AM EventLog 6008 None The previous system shutdown at 12:10:13 AM on ‎1/‎23/‎2020 was unexpected.
+Error 1/23/2020 7:59:25 AM Microsoft-Windows-Kernel-Boot 29 None Windows failed fast startup with error status 0xC0000001.
+Error 1/23/2020 12:19:14 AM Microsoft-Windows-DistributedCOM 10010 None The server {4AA0A5C4-1B9B-4F2E-99D7-99C6AEC83474} did not register with DCOM within the required timeout.
+Critical 1/22/2020 7:40:49 AM Microsoft-Windows-Kernel-Power 41 (63) The system has rebooted without cleanly shutting down first. This error could be caused if the system stopped responding, crashed, or lost power unexpectedly.
+Error 1/22/2020 7:40:46 AM Microsoft-Windows-Kernel-Boot 29 None Windows failed fast startup with error status 0xC0000001.
+Error 1/22/2020 7:40:55 AM EventLog 6008 None The previous system shutdown at 11:50:39 PM on ‎1/‎21/‎2020 was unexpected.
+Error 1/22/2020 12:03:05 AM Microsoft-Windows-DistributedCOM 10010 None The server {4AA0A5C4-1B9B-4F2E-99D7-99C6AEC83474} did not register with DCOM within the required timeout.
+Error 1/21/2020 8:31:51 AM Service Control Manager 7000 None "The Steam Client Service service failed to start due to the following error:
+The service did not respond to the start or control request in a timely fashion."
+Error 1/21/2020 8:31:51 AM Service Control Manager 7009 None A timeout was reached (30000 milliseconds) while waiting for the Steam Client Service service to connect.
+Error 1/21/2020 8:31:39 AM Tcpip 4207 None The IPv6 TCP/IP interface with index 13 failed to bind to its provider.
+Error 1/21/2020 8:30:48 AM Microsoft-Windows-WER-SystemErrorReporting 1001 None The computer has rebooted from a bugcheck.  The bugcheck was: 0x0000009f (0x0000000000000003, 0xffffb8870de1f060, 0xffffb58e3fa3f7b0, 0xffffb88716aad010). A dump was saved in: C:\WINDOWS\MEMORY.DMP. Report Id: d5492e55-b096-4be9-8946-79606b0b7df2.
+Error 1/21/2020 8:30:34 AM TPM 15 None The device driver for the Trusted Platform Module (TPM) encountered a non-recoverable error in the TPM hardware, which prevents TPM services (such as data encryption) from being used. For further help, please contact the computer manufacturer.
+Critical 1/21/2020 8:30:30 AM Microsoft-Windows-Kernel-Power 41 (63) The system has rebooted without cleanly shutting down first. This error could be caused if the system stopped responding, crashed, or lost power unexpectedly.
+Error 1/21/2020 8:30:28 AM Microsoft-Windows-Kernel-Boot 29 None Windows failed fast startup with error status 0xC0000001.
+Error 1/21/2020 8:30:39 AM EventLog 6008 None The previous system shutdown at 11:55:06 PM on ‎1/‎20/‎2020 was unexpected.
+Error 1/20/2020 10:56:01 AM Tcpip 4207 None The IPv6 TCP/IP interface with index 13 failed to bind to its provider.
+Error 1/20/2020 10:56:01 AM Tcpip 4207 None The IPv4 TCP/IP interface with index 13 failed to bind to its provider.
+Error 1/20/2020 10:55:24 AM TPM 15 None The device driver for the Trusted Platform Module (TPM) encountered a non-recoverable error in the TPM hardware, which prevents TPM services (such as data encryption) from being used. For further help, please contact the computer manufacturer.
+Critical 1/20/2020 10:55:22 AM Microsoft-Windows-Kernel-Power 41 (63) The system has rebooted without cleanly shutting down first. This error could be caused if the system stopped responding, crashed, or lost power unexpectedly.
+Critical 1/20/2020 8:41:34 AM Microsoft-Windows-Kernel-Power 41 (63) The system has rebooted without cleanly shutting down first. This error could be caused if the system stopped responding, crashed, or lost power unexpectedly.
+Error 1/19/2020 4:23:56 PM Tcpip 4207 None The IPv6 TCP/IP interface with index 13 failed to bind to its provider.
+Error 1/19/2020 4:23:38 PM Microsoft-Windows-WER-SystemErrorReporting 1001 None The computer has rebooted from a bugcheck.  The bugcheck was: 0x0000009f (0x0000000000000003, 0xffff9588ada3f060, 0xfffff80082e687b0, 0xffff9588b8778c30). A dump was saved in: C:\WINDOWS\MEMORY.DMP. Report Id: cea4bd76-9e35-4798-9ea7-6c027be9f1ef.
+Error 1/19/2020 4:23:05 PM TPM 15 None The device driver for the Trusted Platform Module (TPM) encountered a non-recoverable error in the TPM hardware, which prevents TPM services (such as data encryption) from being used. For further help, please contact the computer manufacturer.
+Critical 1/19/2020 4:23:04 PM Microsoft-Windows-Kernel-Power 41 (63) The system has rebooted without cleanly shutting down first. This error could be caused if the system stopped responding, crashed, or lost power unexpectedly.
+Error 1/19/2020 4:23:01 PM Microsoft-Windows-Kernel-Boot 29 None Windows failed fast startup with error status 0xC0000001.
+Error 1/19/2020 4:23:10 PM EventLog 6008 None The previous system shutdown at 5:15:31 PM on ‎1/‎17/‎2020 was unexpected.
+Error 1/17/2020 7:56:41 AM Tcpip 4207 None The IPv6 TCP/IP interface with index 13 failed to bind to its provider.
+Error 1/17/2020 7:55:40 AM Microsoft-Windows-WER-SystemErrorReporting 1001 None The computer has rebooted from a bugcheck.  The bugcheck was: 0x0000009f (0x0000000000000003, 0xffffb40fae2b4060, 0xfffff80641e687b0, 0xffffb40fb601b260). A dump was saved in: C:\WINDOWS\MEMORY.DMP. Report Id: e879c596-b5c3-422f-a6ad-3718b06c410e.
+Error 1/17/2020 7:55:26 AM TPM 15 None The device driver for the Trusted Platform Module (TPM) encountered a non-recoverable error in the TPM hardware, which prevents TPM services (such as data encryption) from being used. For further help, please contact the computer manufacturer.
+Critical 1/17/2020 7:55:24 AM Microsoft-Windows-Kernel-Power 41 (63) The system has rebooted without cleanly shutting down first. This error could be caused if the system stopped responding, crashed, or lost power unexpectedly.
+Error 1/16/2020 9:34:28 AM Tcpip 4207 None The IPv6 TCP/IP interface with index 13 failed to bind to its provider.
+Error 1/16/2020 9:32:59 AM Microsoft-Windows-WER-SystemErrorReporting 1001 None The computer has rebooted from a bugcheck.  The bugcheck was: 0x0000009f (0x0000000000000003, 0xffffad0ab1852060, 0xffffac070e03f7b0, 0xffffad0ab47819a0). A dump was saved in: C:\WINDOWS\MEMORY.DMP. Report Id: 5203e737-299c-40bd-aeb2-13e3c9f010c0.
+Error 1/16/2020 9:32:45 AM TPM 15 None The device driver for the Trusted Platform Module (TPM) encountered a non-recoverable error in the TPM hardware, which prevents TPM services (such as data encryption) from being used. For further help, please contact the computer manufacturer.
+Critical 1/16/2020 9:32:44 AM Microsoft-Windows-Kernel-Power 41 (63) The system has rebooted without cleanly shutting down first. This error could be caused if the system stopped responding, crashed, or lost power unexpectedly.
+Error 1/15/2020 3:34:14 PM TPM 15 None The device driver for the Trusted Platform Module (TPM) encountered a non-recoverable error in the TPM hardware, which prevents TPM services (such as data encryption) from being used. For further help, please contact the computer manufacturer.
+Error 1/15/2020 7:17:10 AM VBoxNetLwf 12 None The driver detected an internal driver error on \Device\VBoxNetLwf.
+Critical 1/15/2020 7:17:10 AM Microsoft-Windows-Kernel-Power 41 (63) The system has rebooted without cleanly shutting down first. This error could be caused if the system stopped responding, crashed, or lost power unexpectedly.
+Critical 1/14/2020 6:49:47 AM Microsoft-Windows-Kernel-Power 41 (63) The system has rebooted without cleanly shutting down first. This error could be caused if the system stopped responding, crashed, or lost power unexpectedly.

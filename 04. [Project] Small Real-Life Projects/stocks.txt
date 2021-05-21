@@ -1,0 +1,35 @@
+Name	        AverageVolume	Revenue	    P/E Ratio
+3M              5.03M	        32.14B	    18.74
+Alphabet C	    2.41M	        161.86B	    26.01
+Amazon.com	    6.01M	        280.52B	    103.18
+Apple	        51.02M	        267.68B	    22.34
+Boeing	        23.63M	        84.82B		20.31
+Caterpillar	    5.46M	        53.80B	    11.18
+Chevron	        14.33M	        140.16B	    58.8
+Cisco	        32.32M	        51.55B	    15.42
+Coca-Cola	    20.82M	        37.27B	    23.24
+Exxon Mobil	    37.47M	        255.58B	    13.57
+Facebook	    23.04M	        70.70B	    29.45
+Goldman Sachs	4.51M	        53.69B	    9.97
+Home Depot	    6.82M	        110.23B	    20.43
+IBM	            7.17M	        77.15B	    11.19
+Intel	        33.07M	        71.97B	    12.77
+J&J	            11.54M	        82.73B	    23.72
+JPMorgan	    22.96M	        67.07B	    10.75
+McDonalds	    5.62M	        21.08B	    23.43
+Merck&Co	    14.11M	        46.84B	    21.64
+Microsoft	    54.66M	        134.25B	    33.04
+Nike	        10.38M	        41.27B	    33.27
+Pfizer	        34.01M	        51.75B	    13.15
+Procter&Gamble	11.36M	        69.59B		11.19
+Raytheon Tech.	10.18M	        77.05B	    10.31
+Tesla	        20.82M	        24.58B		14.41
+UnitedHealth	6.24M	        246.27B	    20.34
+Verizon	        21.91M	        131.87B	    12.56
+Visa A	        13.98M	        23.53B	    32.21
+Walmart	        10.10M	        523.96B	    25.46
+Walt Disney	    20.03M	        75.13B	    17.98
+
+
+Source: https://www.investing.com/equities/
+(slightly modified for educational purposes)

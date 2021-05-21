@@ -1,0 +1,36 @@
+Site	Domain	Alexa top 50 global sites	SimilarWeb top 50 sites	Type	Principal country/territory
+Google	https://google.com	1 (Steady)	1 (Steady)	Internet services and products	United States U.S.
+YouTube	https://youtube.com	2 (Steady)	2 (Increase1)	Video sharing	United States U.S.
+Tmall	https://tmall.com	3 (Steady)	82 (Steady)	Online shopping	China China
+Facebook	https://facebook.com	4 (Increase3)	3 (Decrease1)	Social networking	United States U.S.
+Baidu	https://baidu.com	5 (Decrease1)	4 (Increase11)	Internet-related services and products	China China
+Tencent QQ	https://qq.com	6 (Decrease1)	20 (Increase18)	Portal	China China
+Sohu	https://sohu.com	7 (Decrease1)	79 (Increase125)	Portal	China China
+Tmall	https://login.tmall.com	8 (Increase1)	N/A[note 1]	Online shopping	China China
+Taobao	https://taobao.com	9 (Decrease1)	42 (Increase9)	Online shopping	China China
+Haosou	https://360.cn	10 (Increase2)	219 (Decrease134)	Internet security and web search engine	China China
+Yahoo!	https://yahoo.com	11 (Steady)	9 (Decrease5)	Portal and media	United States U.S.
+Jingdong Mall	https://jd.com	12 (Increase2)	99	E-commerce	China China
+Wikipedia	https://wikipedia.org	13 (Decrease3)	10 (Decrease5)	Encyclopedia	United States U.S.
+Amazon	https://mazon.com	14 (Decrease1)	13 (Increase8)	E-commerce and cloud computing	United States U.S.
+Sina Corp	https://sina.com.cn	15 (Increase1)	157 (Decrease47)	Portal and instant messaging	China China
+Sina Weibo	https://weibo.com	16 (Decrease1)	128 (Decrease32)	Social networking	China China
+Tmall	https://pages.tmall.com	17 (Increase1)	N/A[note 1]	Online shopping	China China
+Windows Live	https://live.com	18 (Decrease1)	15 (Decrease8)	Software plus services	United States U.S.
+Reddit	https://reddit.com	19 (Steady)	17 (Increase14)	Social news and entertainment	United States U.S.
+Netflix	https://netflix.com	20 (Increase1)	19 (Increase5)	Streaming TV and movies	United States U.S.
+Zoom Video Communications	https://zoom.us	21 (N/A)	[data unknown/missing]	Videotelephony	United States U.S.
+Xinhua News Agency	https://xinhuanet.com	22 (Increase9)	4,150	News	China China
+Okezone	https://Okezone.com	23 (Increase4)	3,102	Portal	Indonesia Indonesia
+Blogspot	https://blogspot.com	24 (Increase2)	236,937	Blogging	United States U.S.
+Microsoft Office	https://office.com	25 (Increase5)	35 (Increase5)	Online office suite	United States U.S.
+Microsoft	https://microsoft.com	26 (Increase8)	44 (Increase4)	Software and technology	United States U.S.
+VK	https://vk.com	27 (Decrease7)	12 (Increase2)	Social networking	Russia Russia
+CSDN	https://csdn.net	28 (Decrease4)	209	Technology news and Internet forum	China China
+Instagram	https://instagram.com	29 (Decrease1)	5 (Increase13)	Photo sharing and social media	United States U.S.
+Alipay	https://alipay.com	30 (Decrease7)	262	Payment system	China China
+Yahoo! https://Japan	yahoo.co.jp	31 (Decrease5)	23 (Increase4)	Portal	Japan Japan
+Twitch	https://Twitch.tv	32 (Increase5)	38 (Increase34)	Streaming primarily on video games	United States U.S.
+Bing	https://bing.com	33 (Decrease8)	25 (Increase21)	Web search engine	United States U.S.
+
+(Based on data provided by Wikipedia at en.wikipedia.org/wiki/List_of_most_popular_websites)
